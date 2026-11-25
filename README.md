@@ -1,48 +1,35 @@
 # [Brand Name] Brand Operating System
 
-The brandOS defines not only how [Brand Name] looks and sounds, but contains tools specific to the brand, empowering the creation of branded artifacts across an organization.
+brandOS is a set of files that people and agents use to make work for [Brand Name]. The core captures what makes the brand recognizable. Installed apps use that guidance to present reusable components and build finished artifacts.
 
-This operating system is a set of markdown and web files that contain guidence and templates for building. There is nothing to run. This brandOS is source of truth for the [Brand Name] brand.
+## Start with the brand
 
-## How to use BrandOS
+Read [Signature Moves](signature-moves.md) first. Pick a move that fits the brief, then consult the parts of the brand that apply to the work.
 
-Begin by reading `taste.md` -- it defines what makes a delivered artifact feel like [Brand Name].
+| When you need to… | Read or use |
+| --- | --- |
+| Decide what to say and how to say it | [Verbal](brand/verbal/) covers audience, positioning, differentiation, messaging, voice and vocabulary. |
+| Decide how something should look or behave | [Visual](brand/visual/) covers art direction, layout, type, color, motion, graphic elements and effects. |
+| Apply an exact visual value | [Styles](brand/styles/) holds the token source, `tokens.json`, and its CSS representation, `brand.css`. Refer to tokens by name in guidance and components. |
+| Choose an approved file | [Assets](brand/assets/) holds logos, fonts and animations. |
 
-Then, depending what the user is trying to create, read:
+## Installed apps
 
-TODO:
-[Render instruction TOC]
+The `apps/` directory holds the optional visual layer. This scaffold includes two starter app folders. In a brand project, install either app by copying its folder into `apps/` under the same name. The core is usable on its own. Each app has its own README as its entry point.
 
-## Folder and file structure
+```text
+signature-moves.md
+brand/
+  verbal/
+  visual/
+  styles/
+  assets/
+apps/
+  components/       Reusable pieces for use across formats
+    registry/
+    sandbox/
+  artifacts/        Templates for complete deliverables
+    templates/
+```
 
-TODO:
-[Render brandOS folder structure]
-
-## How to use the design system
-
-### Fonts
-
-TODO:
-
-### Tokens and styles
-
-TODO: rewrite this
-`agent/visual/visual-system.json` is authoritative for every visual value: color, type,
-spacing, radius, effects. `agent/visual/tokens.css` is generated from it as plain custom
-properties, with no build step.
-
-The markdown files carry rules and reasoning, and name values by token only.
-That split is deliberate: a value lives in exactly one place, so a hex in a
-document can never drift from the hex in the code.
-
-### Component registry
-
-The brandOS is an evolving system. Each component that exists within the OS also lives in a component registry that other [Company Name] tools may call. These components are agnostic in format (not filetype), based on behavior and intent so users and agents may create new components as needed.
-
-The component registry lives beside the components folder, in [`registry`](../artifacts/components/registry/).
-
-## Building artifacts
-
-Based on the request, find the appropriate [`template`](../artifacts/templates/) to base your new artifact on. Gather the necessary context and proceed to generate the requested artifact for the user.
-
-Use the [`brand/`](../brand/) content alongside the component registry and taste.md to build the requested artifact.
+For a welcome email, a writer can use Signature Moves and Verbal directly. With the Artifacts app installed, they can start from a welcome-email template. With Components installed too, that template can reuse a registered call-to-action button. The button belongs to Components, the email layout belongs to Artifacts, and the rules for how the brand sounds and looks live in the core.
