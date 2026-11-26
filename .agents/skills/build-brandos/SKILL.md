@@ -47,6 +47,14 @@ Use the [positioning template](../../../brand/verbal/positioning.md). Start with
 
 Compare the introduction with one concrete instance of the offering today. Record who does the work and what the audience receives. If the team describes a future ambition, capture it under Vision and check any present-tense promise against the current offering. Keep an audience-specific introduction when a different point of reference helps the listener understand the same brand.
 
+## When filling audience
+
+Use the [audience template](../../../brand/verbal/audience.md). Start with a real prospect comparing options, a recent purchase, or a sale the brand lost. Establish who chose, what they needed, and what else they seriously considered. When several people influenced the purchase, attribute each criterion to the person who used it.
+
+Ask “Which option did you rule out first, and why?” Then ask “What made the remaining options worth choosing between?” Follow a broad answer such as quality, style, or price down to the feature, signal, threshold, or tradeoff the buyer used. Record what they checked and whether it changed the shortlist or the final choice. For a prospect still shopping, distinguish their stated priorities from any choice already observed.
+
+Combine cases when the same criteria drive the purchase. Split personas when a different priority would change the offer, proof, or message the brand should put first. Preserve relevant buyer language and its source. When the team has only a hypothesis about a prospective group, record what would establish whether that factor matters.
+
 ## Put each decision where it will be used
 
 | What you learn | Destination in the target project |
