@@ -55,6 +55,12 @@ Ask “Which option did you rule out first, and why?” Then ask “What made th
 
 Combine cases when the same criteria drive the purchase. Split personas when a different priority would change the offer, proof, or message the brand should put first. Preserve relevant buyer language and its source. When the team has only a hypothesis about a prospective group, record what would establish whether that factor matters.
 
+## When filling differentiation
+
+Use the [differentiation template](../../../brand/verbal/differentiation.md) with a buyer’s actual shortlist. Ask which option they would have chosen if the brand were unavailable and what made it credible. For the criterion that tipped the choice, find evidence for both offerings under comparable conditions. Preserve the buyer’s stated reason separately from the team’s explanation of a win or loss.
+
+Ask what change in the brief would make the other option a better fit. Use that answer to scope the comparison. If the sources establish only what our offering does, capture that fact and leave the comparative claim open. Carry substantiated claims and their conditions into Messaging when the team confirms how they will be used.
+
 ## Put each decision where it will be used
 
 | What you learn | Destination in the target project |
