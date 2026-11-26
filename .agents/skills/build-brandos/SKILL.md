@@ -35,6 +35,12 @@ Use the [vocabulary template](../../../brand/verbal/vocabulary.md) to collect de
 
 Try applying a proposed replacement to both running copy and an instruction that names a visible control. If the control still uses the older label, capture the version or surface where a reader needs that exact wording. When available sources disagree, record the competing forms and their contexts under Open questions until the distinction is settled.
 
+## When filling messaging
+
+Use the [messaging template](../../../brand/verbal/messaging.md). Take a real brief and ask which idea should survive if the reader remembers one sentence. Find a second brief where the lead changes and identify what changed for the reader. Record that deciding fact in the priority table. A published headline establishes wording used in that piece. Ask whether the team reuses the idea, the exact line, or both before treating it as a default.
+
+Trace a proposed claim back to the demonstration, customer account, or measurement behind it. Try shortening it to a headline and check whether the shorter line still says whose result it was and under what conditions it holds. If shortening changes the promise, capture the qualification beside the proof. With source materials alone, preserve the supported wording and put unresolved priorities or reuse rights under Open questions.
+
 ## Put each decision where it will be used
 
 | What you learn | Destination in the target project |
