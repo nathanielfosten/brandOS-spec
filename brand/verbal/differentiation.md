@@ -1,42 +1,40 @@
 # Differentiation
 
-Use this guide when someone asks, “Why would this buyer choose us?” Start with an alternative the buyer seriously considered. Use [Audience](audience.md) to identify what mattered to them and [Messaging](messaging.md) for the wording the team uses in finished work.
+## Our competitors
 
-## Alternatives buyers consider
+| Competitor and offering | Where we compete | Why buyers consider them | Basis for inclusion |
+| --- | --- | --- | --- |
+| [Company, product or service, and link] | [Buyer and use case] | [Documented appeal] | [Buyer shortlist, win/loss record, or team nomination] |
 
-| Buying situation | Actual alternative | Why it made the shortlist |
-| --- | --- | --- |
-| [Who is choosing and what are they trying to do?] | [Another offering, an in-house approach, or carrying on as they are] | [What made this option credible? Cite the conversation, evaluation, or observed decision.] |
+## Other alternatives buyers consider
+
+[Workaround, in-house approach, or decision to delay] — [Buying situation and reason this option is viable]
 
 ## Differences that affect the choice
 
-Repeat the following entry for each difference that affects a real decision. Keep the tradeoff and claim with the comparison they describe.
+### [Competitor or alternative] — [Difference that matters to the buyer]
 
-### [Name the difference in terms the buyer would recognize]
-
-**Use this comparison when** — [Name the alternative, use case, and criterion. Identify the threshold the buyer needs either option to meet.]
+**Use this comparison when** — [Use case, criterion, and qualifying threshold]
 
 | On this criterion | What the buyer gets | Evidence and scope |
 | --- | --- | --- |
-| Our offering | [Describe the observable capability, experience, or term.] | [Source, relevant version or date, and conditions.] |
-| The alternative | [Describe what happens for the same use case.] | [Source and conditions. Mark anything still unknown.] |
+| Our offering | [Capability, experience, or term] | [Source, date or version, and conditions] |
+| [Alternative name] | [Comparable capability, experience, or term] | [Source, date or version, and conditions] |
 
-**Why it matters** — [Describe what this difference changes for the buyer. What can they do, avoid, or achieve as a result? Identify whether they experienced this outcome or expect it.]
+**Why it matters** — [Effect on the buyer and whether that outcome was observed or expected]
 
 #### Where the choice tips
 
-**Reason to choose us** — [Name the buyer priority or constraint that gives our approach the edge in this comparison.]
+**Reason to choose us** — [Priority or constraint that favors our approach]
 
-**Reason to choose the alternative** — [Under what conditions would that option serve the buyer better? What cost, effort, or benefit would they trade away by choosing us?]
+**Reason to choose the alternative** — [Condition under which it serves the buyer better]
 
-**What happened in practice** — [Identify a relevant decision, its outcome if known, and who gave the reason. Record where an open evaluation or an internal explanation still needs confirmation.]
+**What happened in practice** — [Decision, outcome, and buyer’s stated reason or attributed account]
 
 #### Claim a writer can use
 
-> [Write the narrowest useful line the evidence supports. Keep any condition the claim depends on.]
+> [Approved comparison with its qualification]
 
-**Use and limits** — [Name the comparison it draws on and where this wording is approved or still a draft. If a stronger claim would require broader evidence, name the missing comparison or result.]
+**Use and limits** — [Audience, context, and scope of the claim]
 
-## Open questions
-
-[Record what is unknown, which claim or buying decision depends on it, and the source that could settle it.]
+See [Audience](audience.md) for buying priorities and [Messaging](messaging.md) for usage across briefs.

@@ -1,11 +1,13 @@
 # Effects
 
-Elevation, shadow, radius, texture and other surface treatments.
+| Treatment | What it communicates | How to apply it |
+| --- | --- | --- |
+| Elevation or shadow | [Depth relationship] | [Surface, state, and token] |
+| Line or edge | [Boundary] | [Placement, stroke, and corner treatment] |
+| Texture or finish | [Intended impression] | [Token or asset, surface, and limit] |
 
-## Elevation and depth
+## Check a treatment
 
-## Shadows
+[Surface or density condition and approved simpler treatment]
 
-## Lines
-
-## Texture
+**Reference** — [Example, placement, and token or asset]

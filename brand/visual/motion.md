@@ -1,9 +1,12 @@
 # Motion
 
-[Brand Name] timing, easing and motion personality.
+## Motion for [event or action]
 
-## Principles
+- **Purpose and trigger** — [Event and what the viewer should understand]
+- **Sequence** — [Starting state, movement, and final state]
+- **Timing and easing** — [Duration and easing tokens, order, and overlap]
+- **Reduced motion or still use** — [Equivalent treatment]
 
-## Timing and easing
+**Reference** — [Approved clip, timestamp, or interaction]
 
-## Rules
+See the approved [animation assets](../assets/animations/).

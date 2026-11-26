@@ -1,15 +1,11 @@
 # Layout
 
-How content should be laid out on generated artifacts.
+## Layout for [format]
 
-## Grid
+- **Reading order** — [First read, supporting content, and closing element]
+- **Grid and containers** — [Alignment, width tokens, and overflow rules]
+- **Spacing** — [Spacing tokens within groups and between sections]
+- **Boundaries** — [Border and container usage, stroke, and radius tokens]
+- **Adaptation** — [Stacking, reordering, and alignment at other sizes]
 
-## Containers
-
-## Spacing
-
-## Radius
-
-## Borders
-
-## Sections
+**Reference** — [Approved layouts and the relationship preserved across formats]

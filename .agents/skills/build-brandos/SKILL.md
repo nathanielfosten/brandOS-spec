@@ -9,7 +9,7 @@ Write each core entry for any team member or agent making a brand decision. Orga
 
 ## Find what is already known
 
-Read the target project's README and current core files. Their prompts are the intake outline. Bracketed fields and illustrative examples are scaffolding. For a partial update, start with the named area and its immediate dependencies. For a full intake, account for all the core areas in the routing table below.
+Read the target project's README and current core files. Their headings and bracketed fields describe the finished reference. Use this skill to conduct the interview and resolve missing information. For a partial update, start with the named area and its immediate dependencies. For a full intake, account for all the core areas in the routing table below.
 
 Use materials already provided or identified for this brand, such as approved work, a deck, customer research, a design library, CSS or source assets. Note where each usable decision came from, down to the slide, selector or passage when helpful. A current decision from the team can also serve as a source. A pattern in a sample is grounds for a follow-up if its scope or approval is unclear.
 
@@ -25,7 +25,7 @@ Read the [voice and tone template](../../../brand/verbal/voice-and-tone.md) and 
 
 When someone gives you an adjective, ask them to edit a line. Hold the facts and situation steady so the edit reveals a preference. Ask “Which words made you reach for the keyboard?” Capture both versions, their reason, and the context where that reason applies. To distinguish tone from format, change one thing at a time: keep the channel fixed while changing the reader’s situation, or carry the same message into a second format.
 
-If the brand has little published work, ask the speaker to say what they would actually tell a reader in a real upcoming situation. Quote their answer and identify it as an interview sample. You can draft alternatives for comparison. Label those as proposals and record the editor’s choice in their own words. In a source-only pass, leave uncertain boundaries under Open questions.
+If the brand has little published work, ask the speaker to say what they would actually tell a reader in a real upcoming situation. Quote their answer and identify it as an interview sample. You can draft alternatives for comparison. Label those as proposals and record the editor’s choice in their own words.
 
 When the user is available to review, try the guide on a fresh, short brief in a format they use. Ask which line they would change first and why. Fold that edit into the relevant section with its scope. A newly drafted test line becomes a reference sample only if the editor endorses it for reuse.
 
@@ -33,13 +33,13 @@ When the user is available to review, try the guide on a fresh, short brief in a
 
 Use the [vocabulary template](../../../brand/verbal/vocabulary.md) to collect decisions that change the words someone would publish. Start with an actual naming correction, two terms people interchange, or a mismatch between a draft and the product it describes. For a name, check the first and later mentions. For a disputed word, ask the editor for a sentence where each candidate would be accurate. Record the deciding fact and the source beside the entry.
 
-Try applying a proposed replacement to both running copy and an instruction that names a visible control. If the control still uses the older label, capture the version or surface where a reader needs that exact wording. When available sources disagree, record the competing forms and their contexts under Open questions until the distinction is settled.
+Try applying a proposed replacement to both running copy and an instruction that names a visible control. If the control still uses the older label, capture the version or surface where a reader needs that exact wording. When sources disagree, bring both forms and their contexts to the intake handoff.
 
 ## When filling messaging
 
 Use the [messaging template](../../../brand/verbal/messaging.md). Take a real brief and ask which idea should survive if the reader remembers one sentence. Find a second brief where the lead changes and identify what changed for the reader. Record that deciding fact in the priority table. A published headline establishes wording used in that piece. Ask whether the team reuses the idea, the exact line, or both before treating it as a default.
 
-Trace a proposed claim back to the demonstration, customer account, or measurement behind it. Try shortening it to a headline and check whether the shorter line still says whose result it was and under what conditions it holds. If shortening changes the promise, capture the qualification beside the proof. With source materials alone, preserve the supported wording and put unresolved priorities or reuse rights under Open questions.
+Trace a proposed claim back to the demonstration, customer account, or measurement behind it. Try shortening it to a headline and check whether the shorter line still says whose result it was and under what conditions it holds. If shortening changes the promise, capture the qualification beside the proof. With source materials alone, preserve the supported wording and raise uncertain priorities or reuse rights in the intake handoff.
 
 ## When filling positioning
 
@@ -57,9 +57,17 @@ Combine cases when the same criteria drive the purchase. Split personas when a d
 
 ## When filling differentiation
 
-Use the [differentiation template](../../../brand/verbal/differentiation.md) with a buyer’s actual shortlist. Ask which option they would have chosen if the brand were unavailable and what made it credible. For the criterion that tipped the choice, find evidence for both offerings under comparable conditions. Preserve the buyer’s stated reason separately from the team’s explanation of a win or loss.
+Start the [differentiation template](../../../brand/verbal/differentiation.md) by asking “Which companies or products do you consider your closest competitors?” Capture the names the team gives, the specific offering, and where the audiences overlap. Then ask which names buyers have actually raised and in which decisions. Attribute team nominations and buyer mentions to their sources. A name alone gives a writer a starting point for research. Claims about why buyers choose a competitor need their own evidence.
 
-Ask what change in the brief would make the other option a better fit. Use that answer to scope the comparison. If the sources establish only what our offering does, capture that fact and leave the comparative claim open. Carry substantiated claims and their conditions into Messaging when the team confirms how they will be used.
+For a real evaluation, ask which option they would have chosen if the brand were unavailable and what made it credible. For the criterion that tipped the choice, find evidence for both offerings under comparable conditions. Preserve the buyer’s stated reason separately from the team’s explanation of a win or loss.
+
+Ask what change in the brief would make the other option a better fit. Use that answer to scope the comparison. If the sources establish only what our offering does, record that fact and raise the missing comparison in the intake handoff. Carry substantiated claims and their conditions into Messaging when the team confirms how they will be used.
+
+## When filling color and typography
+
+For [Color](../../../brand/visual/color.md), pair an authoritative swatch source with a piece that uses it. Record the exact token or production reference, then ask which surfaces, text, and accents it serves. A palette alone does not establish a readable text pairing. Capture the foreground, background, and conditions of a documented check when one exists. Request the original swatch in the handoff if the exact value is missing.
+
+For [Typography](../../../brand/visual/typography.md), start with a specimen that shows at least two text roles together. Trace the roles to named styles, font files, or layout settings. Ask what the team actually uses when the face is unavailable or the copy runs long. An approved deck or email can establish a format-specific fallback. Record the font names and measurements that the source establishes.
 
 ## Put each decision where it will be used
 
@@ -75,8 +83,8 @@ One source can answer several questions. A launch email might supply an approved
 
 ## Save and resume
 
-Retain the core file paths and topic headings across brands. Repeat entries when the brand has distinct use cases. Use the guide’s Open questions section for outstanding choices and remove resolved questions on a later pass.
+Retain the core file paths and topic headings across brands. Signature Moves is freeform and follows the brand’s own structure. Repeat entries when the brand has distinct use cases. Write settled decisions as statements a reader can apply. Remove authoring prompts and unused fields from the filled guide.
 
-When populating files, replace the relevant prompts with supported decisions and their sources. If a source establishes a narrower rule, keep that scope. Preserve prior decisions unless the new evidence resolves or supersedes them. On a repeat pass, update the existing entry in place. Leave missing values unfilled and keep conflicting claims open until resolved. If the team explicitly doesn't use something, record that decision so it needn't be asked again.
+When populating files, replace the relevant placeholders with supported decisions and their sources. If a source establishes a narrower rule, keep that scope. Preserve prior decisions unless the new evidence resolves or supersedes them. On a repeat pass, update the existing entry in place. Put gaps and conflicting claims in the intake handoff to the user, with the source or decision needed to resolve them. When updating an older guide, carry any outstanding intake notes into that handoff before removing them from the guide. If the team explicitly doesn't use something, record that decision so it needn't be asked again.
 
 After each useful batch, report what was filled, which evidence it used, and the most consequential remaining gap. For a full intake, distinguish areas covered, still open and explicitly inapplicable. Before finishing, check the edited links and assets, parse the token JSON, and confirm that every edited token agrees with its CSS property. A partial brandOS with traceable decisions is a usable handoff.

@@ -1,13 +1,16 @@
 # Art direction
 
-Guidence on how [Brand Name] artifacts should look and feel.
+## Direction for [kind of brief]
 
-## The design process
+- **Idea** — [Intended impression or takeaway]
+- **Subject and medium** — [Subject, medium, and reason for the choice]
+- **Composition** — [Focal point, framing, scale, light, and crop]
+- **Boundaries** — [Treatment to avoid, applicable context, and preferred alternative]
 
-## Principles
+## How the team chooses
 
-## Concepts
+[Principle for choosing a direction]
 
-## Rules
+**Reference** — [Approved image, frame, or spread and the visible detail that matters]
 
-
+See [Signature Moves](../../signature-moves.md).

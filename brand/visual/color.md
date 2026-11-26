@@ -1,19 +1,27 @@
 # Color
 
-The [Brand Name] palette and usage.
+## Palette
 
-## Primary colors
+| Swatch | Token or production reference | Role | Where to use it |
+| --- | --- | --- | --- |
+| [Swatch name] | [Digital token or print specification] | [Primary, supporting, accent, neutral, or state] | [Approved use and example] |
 
-## Accent colors
+Exact digital values are in the [token source](../styles/tokens.json).
 
-## Neutral colors
+## Color in use
 
-## Semantic colors
+**Default composition** — [Dominant surface, text color, and accent placement]
 
-## Gradients
+**Change of context** — [Surface, campaign, or print condition and the appropriate substitution]
 
-## Alpha and transparency
+**State indicators** — [State, color, and accompanying text or icon]
 
-## Pairings and usage
+## Foreground and background pairings
 
-## Rules
+| Foreground | Background | Approved use | Conditions and evidence |
+| --- | --- | --- | --- |
+| [Token or swatch] | [Token or swatch] | [Text, icon, mark, or graphic] | [Size, weight, surface, example, and applicable contrast check] |
+
+**Treatments** — [Approved gradient, tint, or transparency and underlying surface]
+
+**Substitution** — [Condition and replacement pairing]
