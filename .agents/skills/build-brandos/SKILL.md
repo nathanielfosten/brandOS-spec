@@ -41,6 +41,12 @@ Use the [messaging template](../../../brand/verbal/messaging.md). Take a real br
 
 Trace a proposed claim back to the demonstration, customer account, or measurement behind it. Try shortening it to a headline and check whether the shorter line still says whose result it was and under what conditions it holds. If shortening changes the promise, capture the qualification beside the proof. With source materials alone, preserve the supported wording and put unresolved priorities or reuse rights under Open questions.
 
+## When filling positioning
+
+Use the [positioning template](../../../brand/verbal/positioning.md). Start with how someone on the team actually introduces the brand to a newcomer. Ask what the listener thought they could buy, use, or hand off after hearing it. If that expectation was wrong, capture the smallest clarification that fixed it. Preserve the source and whether the team endorses that wording for reuse.
+
+Compare the introduction with one concrete instance of the offering today. Record who does the work and what the audience receives. If the team describes a future ambition, capture it under Vision and check any present-tense promise against the current offering. Keep an audience-specific introduction when a different point of reference helps the listener understand the same brand.
+
 ## Put each decision where it will be used
 
 | What you learn | Destination in the target project |
