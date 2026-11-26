@@ -29,6 +29,12 @@ If the brand has little published work, ask the speaker to say what they would a
 
 When the user is available to review, try the guide on a fresh, short brief in a format they use. Ask which line they would change first and why. Fold that edit into the relevant section with its scope. A newly drafted test line becomes a reference sample only if the editor endorses it for reuse.
 
+## When filling vocabulary
+
+Use the [vocabulary template](../../../brand/verbal/vocabulary.md) to collect decisions that change the words someone would publish. Start with an actual naming correction, two terms people interchange, or a mismatch between a draft and the product it describes. For a name, check the first and later mentions. For a disputed word, ask the editor for a sentence where each candidate would be accurate. Record the deciding fact and the source beside the entry.
+
+Try applying a proposed replacement to both running copy and an instruction that names a visible control. If the control still uses the older label, capture the version or surface where a reader needs that exact wording. When available sources disagree, record the competing forms and their contexts under Open questions until the distinction is settled.
+
 ## Put each decision where it will be used
 
 | What you learn | Destination in the target project |
