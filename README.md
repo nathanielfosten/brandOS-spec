@@ -1,6 +1,6 @@
 # [Brand Name] Brand Operating System
 
-brandOS is a set of files that people and agents use to make work for [Brand Name]. The core captures what makes the brand recognizable. Installed apps use that guidance to present reusable components and build finished artifacts.
+brandOS is a set of files that people and agents use to make work for [Brand Name]. The core captures what makes the brand recognizable. Installed plugins use that guidance to present reusable components and build finished artifacts.
 
 ## Start with the brand
 
@@ -15,9 +15,9 @@ Read [Signature Moves](signature-moves.md) first. Pick a move that fits the brie
 | Apply an exact visual value | [Styles](brand/styles/README.md) provides approved token values and their corresponding CSS properties. |
 | Choose an approved file | The [asset inventory](brand/assets/README.md) records which logo, font or animation to use and where to find it. |
 
-## Installed apps
+## Plugin layer
 
-The `apps/` directory holds the optional visual layer. This scaffold includes two starter app folders. In a brand project, install either app by copying its folder into `apps/` under the same name. The core is usable on its own. Each app has its own README as its entry point.
+The `plugins/` directory holds optional extensions to the core. Components and Artifacts are the two starter plugins. In a brand project, install either plugin by copying its folder into `plugins/` under the same name. The core is usable on its own. Each plugin has its own README as its entry point.
 
 ```text
 signature-moves.md
@@ -26,7 +26,7 @@ brand/
   visual/
   styles/
   assets/
-apps/
+plugins/
   components/       Reusable pieces for use across formats
     registry/
     sandbox/
@@ -34,4 +34,4 @@ apps/
     templates/
 ```
 
-For a welcome email, a writer can use Signature Moves and Verbal directly. With the Artifacts app installed, they can start from a welcome-email template. With Components installed too, that template can reuse a registered call-to-action button. The button belongs to Components, the email layout belongs to Artifacts, and the rules for how the brand sounds and looks live in the core.
+To prepare a welcome email, use Signature Moves and Verbal directly. With the Artifacts plugin installed, start from a welcome-email template. With Components installed too, that template can reuse a registered call-to-action button. The button belongs to Components, the email layout belongs to Artifacts, and the rules for how the brand sounds and looks live in the core.

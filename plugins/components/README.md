@@ -1,6 +1,6 @@
 # Components
 
-Use this app to find, preview and maintain pieces that can appear in more than one artifact, such as a button, a card or a chart.
+Use this plugin to find, preview and maintain pieces that can appear in more than one artifact, such as a button, a card or a chart.
 
 - [Registry](registry/) describes each component by its intent and behavior so people, agents and tools can find the right piece across formats. Keep its implementation with the entry or link to it from there.
 - [Sandbox](sandbox/) holds previews and working examples. When a component is ready to reuse, give it a registry entry.
